@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\bin\Debug\net8.0\AnimalDatabase.exe
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\bin\Debug\net8.0\AnimalDatabase.deps.json
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\bin\Debug\net8.0\AnimalDatabase.runtimeconfig.json
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\bin\Debug\net8.0\AnimalDatabase.dll
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\bin\Debug\net8.0\AnimalDatabase.pdb
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.AssemblyInfo.cs
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.dll
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\refint\AnimalDatabase.dll
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.pdb
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\AnimalDatabase.genruntimeconfig.cache
+C:\Users\admin\Desktop\Animal DataBase\AnimalDatabase\obj\Debug\net8.0\ref\AnimalDatabase.dll
